@@ -19,6 +19,15 @@ This project aims to develop a comprehensive Payroll Management System using Jav
 **Project Showcase:**
 Include screenshots of key components:
 ![WhatsApp Image 2023-12-11 at 2 52 21 AM](https://github.com/Shraddha0607/CodeClauseInternship_EmployeePayrollSystem/assets/136147634/d9dd6c2c-61a7-4793-9f90-c954301454a0)
+![WhatsApp Image 2023-12-11 at 2 56 01 AM](https://github.com/Shraddha0607/CodeClauseInternship_EmployeePayrollSystem/assets/136147634/db70e3ca-82c6-48f8-b8f9-39b1d68de42b)
+![WhatsApp Image 2023-12-11 at 2 56 58 AM](https://github.com/Shraddha0607/CodeClauseInternship_EmployeePayrollSystem/assets/136147634/52017c4b-b960-4e08-9a2d-cd249762bb8d)
+![WhatsApp Image 2023-12-11 at 2 58 02 AM](https://github.com/Shraddha0607/CodeClauseInternship_EmployeePayrollSystem/assets/136147634/77e36ccc-d848-4d08-aead-7fd0a4ee29b6)
+![WhatsApp Image 2023-12-11 at 3 01 58 AM](https://github.com/Shraddha0607/CodeClauseInternship_EmployeePayrollSystem/assets/136147634/4459d632-2c7f-4c93-b3e1-502d344cb648)
+
+
+
+
+
 
 
 
